@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 Motivated Computer Science student with practical experience in full-stack web development,<br>specializing in the MERN stack. Proficient in JavaScript (React.js, Node.js, Express.js) and MongoDB, with<br>hands-on experience building secure RESTful APIs for e-commerce platforms. Also skilled in Java and core CS<br>concepts like DBMS and MySQL.
 

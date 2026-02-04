@@ -16,9 +16,9 @@ Motivated Computer Science student with practical experience in full-stack web d
 ![](https://github-profile-trophy.vercel.app/?username=rajkishordas09&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajkishordas09&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rajkishordas09&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajkishordas09&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=rajkishordas09&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rajkishordas09&theme=codeSTACKr&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajkishordas09&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rajkishordas09&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
